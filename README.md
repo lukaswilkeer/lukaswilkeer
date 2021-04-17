@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @lukaswilkeer
-- 👀 I’m interested in javascriprt, nodejs, erlang, functional and imperative languages.
+- 👀 I’m interested in javascriprt, nodejs, functional and imperative languages.
 - 🌱 I’m currently learning/praticing imperative code style on nodejs enviroments.
 - 💞️ I’m looking to collaborate projects that involves streamable interfaces.
 - 📫 How to reach me! Infos are on my profile.
